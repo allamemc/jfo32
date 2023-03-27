@@ -7,7 +7,7 @@ public class Tipos {
         int tipo3 = 45;
         long tipo4 = 3;
         System.out.println("tipos: " + tipo1 +tipo3 +tipo2 +tipo4);
-        int numero = 2;
+        int numero = 7872;
         System.out.println(numero++);
         System.out.println(numero);
 
