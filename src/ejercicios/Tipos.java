@@ -5,7 +5,7 @@ public class Tipos {
         byte tipo1 = 127;
         short tipo2 = 32767; //40000; el tipo short tiene como máximo un valor de 32767
         int tipo3 = 45;
-        long tipo4 = 1;
+        long tipo4 = 3;
 
         int numero = 2;
         System.out.println(numero++);
