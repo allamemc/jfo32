@@ -6,7 +6,7 @@ public class Tipos {
         short tipo2 = 32767; //40000; el tipo short tiene como máximo un valor de 32767
         int tipo3 = 45;
         long tipo4 = 3;
-
+        System.out.println("tipos: " + tipo1 +tipo3 +tipo2 +tipo4);
         int numero = 2;
         System.out.println(numero++);
         System.out.println(numero);
