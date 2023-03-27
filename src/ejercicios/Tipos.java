@@ -20,9 +20,9 @@ public class Tipos {
         try {
             int num = parimpar.nextInt();
             if(num % 2 == 0){
-                System.out.println("Es par");
+                System.out.println("Es par\n");
             }else{
-                System.out.println("Es impar");
+                System.out.println("Es impar\n");
             }
         }
         catch(Exception e){
@@ -34,9 +34,9 @@ public class Tipos {
         try {
             int nump = primo.nextInt();
             if (esPrimo(nump)){
-                System.out.println("Es primo");
+                System.out.println("Es primo\n");
             }else{
-                System.out.println("No es primo");
+                System.out.println("No es primo\n");
             }
         }
         catch(Exception e){
